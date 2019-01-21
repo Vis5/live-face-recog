@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "409106625925",
+    "firebase_url": "https://facial-landmarks-52ffa.firebaseio.com",
+    "project_id": "facial-landmarks-52ffa",
+    "storage_bucket": "facial-landmarks-52ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409106625925:android:6f234121d2935301",
+        "android_client_info": {
+          "package_name": "com.themon.test.mlkit_faciallandmarks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409106625925-f2haj4870hsqrgu7ml815v75er585eit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDccrUHX5wD2nbWpOy2ZqXVH8dmGoYZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
